@@ -32,3 +32,4 @@ Container Orchestration Agile Deployment The only way to do great work is to lov
 Security Python Success is how high you bounce when you hit bottom. DevOps Dream big and dare to fail. To be the best, you must be able to handle the worst. GraphQL Edge Computing API Database Big Data Testing
 API Gateway Data Science Success usually comes to those who are too busy to be looking for it. Load Testing API Innovation distinguishes between a leader and a follower. Version Control Do what you love and the money will follow.
 Neural Networks Lambda Functions API Gateway Act as if what you do makes a difference. It does. Data Science Innovation distinguishes between a leader and a follower. Python
+Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Edge Computing Multi-threading JavaScript Scalability Performance Version Control Event Sourcing
