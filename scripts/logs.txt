@@ -26,3 +26,4 @@ Containerization React Python Great things never come from comfort zones. Pull R
 Framework UX Optimization Event Sourcing Pull Request Cloud Stay hungry, stay foolish. JavaScript Innovation distinguishes between a leader and a follower.
 GraphQL Algorithm Multi-threading Python Kafka Replica Set JWT Server Response NLP Performance
 Logging Difficult roads often lead to beautiful destinations. Artificial Intelligence Microservices Framework Neural Networks Quantum Computing Success doesn’t just find you. You have to go out and get it. Scalability GraphQL Python React Edge Computing
+Latency Optimization Load Balancing Happiness is not something ready made. It comes from your own actions. Backend Serverless Sharding Neural Networks Monitoring Don't be afraid to give up the good to go for the great. Data Science To be the best, you must be able to handle the worst. Deployment Multi-threading
