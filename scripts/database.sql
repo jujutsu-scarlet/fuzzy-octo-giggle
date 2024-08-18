@@ -26,3 +26,4 @@ Big Data NLP Event-driven Architecture A/B Testing React Quantum Computing Distr
 Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Kafka Agile Work hard in silence, let your success be your noise. Container Orchestration To be the best, you must be able to handle the worst. Deployment Algorithm Frontend
 UX Optimization Optimization API Multi-threading Predictive Analytics Python Database JWT Cloud Functions Cloud Distributed Systems
 Firewalls Agile Container Orchestration Don't be afraid to give up the good to go for the great. Optimization Quantum Computing
+Firewalls Multi-threading Zero Downtime Deployment Success is not in what you have, but who you are. Data Science Opportunities don't happen. You create them. API Logging CI/CD NLP Act as if what you do makes a difference. It does.

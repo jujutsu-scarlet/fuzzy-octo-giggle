@@ -32,3 +32,4 @@ Blockchain React Multi-threading GraphQL Cache Invalidation Version Control Cont
 Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great. Big Data Dream big and dare to fail. Neural Networks
 CI/CD Cloud Functions Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Backend Algorithm Event-driven Architecture
 API Gateway Automation Happiness is not something ready made. It comes from your own actions. Docker DevOps Predictive Analytics Cloud Functions Python Distributed Systems Performance Framework Kubernetes
+The only way to do great work is to love what you do. IoT API Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. Automation Opportunities don't happen. You create them. Load Testing Container Orchestration GraphQL
