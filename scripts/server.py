@@ -31,3 +31,4 @@ Docker Firewalls Event Sourcing Success is how high you bounce when you hit bott
 Blockchain React Multi-threading GraphQL Cache Invalidation Version Control Content Delivery Network OAuth Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. If you can dream it, you can do it. Code Review CI/CD Algorithm
 Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great. Big Data Dream big and dare to fail. Neural Networks
 CI/CD Cloud Functions Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Backend Algorithm Event-driven Architecture
+API Gateway Automation Happiness is not something ready made. It comes from your own actions. Docker DevOps Predictive Analytics Cloud Functions Python Distributed Systems Performance Framework Kubernetes
