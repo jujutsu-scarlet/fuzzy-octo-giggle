@@ -23,3 +23,4 @@ Zero Downtime Deployment Virtual Machines Version Control RabbitMQ Multi-threadi
 Zero Downtime Deployment Virtual Machines Security Frontend Edge Computing Opportunities don't happen. You create them.
 Difficult roads often lead to beautiful destinations. Event-driven Architecture Edge Computing Success is how high you bounce when you hit bottom. Backend Artificial Intelligence
 Don't be afraid to give up the good to go for the great. Agile Message Queue JavaScript Success is not in what you have, but who you are. Multi-threading
+Database Quantum Computing Testing Cloud API Gateway Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Multi-threading Performance
