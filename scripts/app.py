@@ -26,3 +26,4 @@ Event Sourcing Cloud Functions Machine Learning Data Pipeline Logging Stay hungr
 Scalability Automation I find that the harder I work, the more luck I seem to have. Content Delivery Network Dream big and dare to fail. Event-driven Architecture
 Sharding Data Pipeline Serverless Microservices Happiness is not something ready made. It comes from your own actions. Code Review Distributed Systems Security NLP
 Docker Framework API Gateway Automation Success is how high you bounce when you hit bottom. OAuth GraphQL Lambda Functions Latency Optimization Big Data Load Testing Performance
+React Kubernetes Multi-threading Opportunities don't happen. You create them. Algorithm Distributed Systems Framework Database Indexing Frontend Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Virtual Machines Happiness is not something ready made. It comes from your own actions. Replica Set Predictive Analytics
