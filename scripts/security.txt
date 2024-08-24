@@ -17,3 +17,4 @@ Stay hungry, stay foolish. Frontend GraphQL Act as if what you do makes a differ
 Backend Serverless Dream big and dare to fail. Data Pipeline Automation Load Balancing Opportunities don't happen. You create them. Latency Optimization Success is how high you bounce when you hit bottom. Event-driven Architecture Message Queue Artificial Intelligence Multi-threading
 To be the best, you must be able to handle the worst. Version Control Cloud Functions JavaScript Machine Learning CI/CD Backend Load Testing
 Big Data I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. Pull Request Replica Set Parallel Processing
+Success is not in what you have, but who you are. Monitoring I find that the harder I work, the more luck I seem to have. Data Science JWT Success usually comes to those who are too busy to be looking for it.
