@@ -24,3 +24,4 @@ Containerization To be the best, you must be able to handle the worst. Load Test
 Don't be afraid to give up the good to go for the great. Machine Learning UX Optimization Distributed Systems DevOps Event-driven Architecture NLP OAuth Quantum Computing Load Testing Optimization
 Big Data NLP Event-driven Architecture A/B Testing React Quantum Computing Distributed Systems Database Database Indexing
 Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Kafka Agile Work hard in silence, let your success be your noise. Container Orchestration To be the best, you must be able to handle the worst. Deployment Algorithm Frontend
+UX Optimization Optimization API Multi-threading Predictive Analytics Python Database JWT Cloud Functions Cloud Distributed Systems
