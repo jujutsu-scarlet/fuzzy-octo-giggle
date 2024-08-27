@@ -28,3 +28,4 @@ API Gateway Virtual Machines Logging Big Data Monitoring Dream big and dare to f
 GraphQL NLP Docker Cloud Parallel Processing Data Pipeline
 Frontend Logging Machine Learning Containerization Success doesn’t just find you. You have to go out and get it. Cloud Functions I find that the harder I work, the more luck I seem to have.
 Container Orchestration DevOps Content Delivery Network Framework Dream big and dare to fail.
+Container Orchestration Agile Deployment The only way to do great work is to love what you do. Virtual Machines Machine Learning A/B Testing
