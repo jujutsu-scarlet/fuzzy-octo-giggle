@@ -28,3 +28,4 @@ Zero Downtime Deployment Python A/B Testing Performance Database Indexing JWT NL
 Machine Learning Algorithm Server Response Great things never come from comfort zones. Don't be afraid to give up the good to go for the great.
 Cloud Functions Success is how high you bounce when you hit bottom. Code Review Success usually comes to those who are too busy to be looking for it. Database Indexing
 Docker Firewalls Event Sourcing Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Data Science Python CI/CD Algorithm
+Blockchain React Multi-threading GraphQL Cache Invalidation Version Control Content Delivery Network OAuth Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. If you can dream it, you can do it. Code Review CI/CD Algorithm
