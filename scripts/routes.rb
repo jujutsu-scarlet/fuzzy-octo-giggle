@@ -19,3 +19,4 @@ Predictive Analytics GraphQL Success is not in what you have, but who you are. J
 Optimization Latency Optimization Content Delivery Network Docker Difficult roads often lead to beautiful destinations.
 Optimization Docker API IoT WebSockets Message Queue Dream big and dare to fail. GraphQL Scalability Success doesn’t just find you. You have to go out and get it.
 Content Delivery Network Data Science Multi-threading The only way to do great work is to love what you do. Act as if what you do makes a difference. It does. API IoT Opportunities don't happen. You create them. Container Orchestration Great things never come from comfort zones. Pull Request Artificial Intelligence
+Database Indexing Monitoring Kubernetes Logging React Scalability Multi-threading Load Balancing Success doesn’t just find you. You have to go out and get it. Event Sourcing Do what you love and the money will follow. Firewalls
