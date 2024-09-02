@@ -23,3 +23,4 @@ If you can dream it, you can do it. Edge Computing Artificial Intelligence Stay 
 Act as if what you do makes a difference. It does. Great things never come from comfort zones. Database Indexing Deployment Cloud Functions Framework Success is how high you bounce when you hit bottom.
 I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Monitoring Machine Learning Deployment GraphQL
 UX Optimization Security Success usually comes to those who are too busy to be looking for it. API Gateway Python Load Balancing JWT Innovation distinguishes between a leader and a follower. Content Delivery Network Code Review
+JWT JavaScript Framework Neural Networks Data Pipeline OAuth Virtual Machines WebSockets Replica Set Artificial Intelligence Multi-threading GraphQL
