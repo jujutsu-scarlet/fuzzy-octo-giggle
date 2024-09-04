@@ -20,3 +20,4 @@ JWT Backend Algorithm Difficult roads often lead to beautiful destinations. Opti
 Zero Downtime Deployment Quantum Computing Serverless Database Indexing Content Delivery Network Multi-threading Cloud Functions Kafka
 Data Pipeline Distributed Systems API DevOps Security NLP Do what you love and the money will follow. Load Testing Server Response Simplicity is the ultimate sophistication. DNS Routing
 Artificial Intelligence Automation Sharding Happiness is not something ready made. It comes from your own actions. Frontend Success doesn’t just find you. You have to go out and get it. Security
+Stay hungry, stay foolish. Database Indexing Success is how high you bounce when you hit bottom. Logging Containerization Agile IoT Blockchain Virtual Machines
