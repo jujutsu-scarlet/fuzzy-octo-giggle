@@ -23,3 +23,4 @@ Stay hungry, stay foolish. Serverless Server Response Version Control If you can
 Code Review Latency Optimization Containerization Agile Success usually comes to those who are too busy to be looking for it. API Gateway Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. RabbitMQ Machine Learning React Firewalls Backend
 Neural Networks If you can dream it, you can do it. OAuth Work hard in silence, let your success be your noise. Blockchain I find that the harder I work, the more luck I seem to have. UX Optimization Testing
 Containerization React Python Great things never come from comfort zones. Pull Request Agile
+Framework UX Optimization Event Sourcing Pull Request Cloud Stay hungry, stay foolish. JavaScript Innovation distinguishes between a leader and a follower.
