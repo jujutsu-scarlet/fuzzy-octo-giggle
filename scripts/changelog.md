@@ -20,3 +20,4 @@ Latency Optimization Backend Stay hungry, stay foolish. Success doesn’t just fin
 Logging Opportunities don't happen. You create them. WebSockets Automation I find that the harder I work, the more luck I seem to have. Multi-threading Data Science Simplicity is the ultimate sophistication. Algorithm
 Blockchain Data Science Algorithm Docker Big Data Act as if what you do makes a difference. It does. Zero Downtime Deployment Frontend Cloud Testing Message Queue Virtual Machines Sharding Logging Success doesn’t just find you. You have to go out and get it.
 Python Containerization Cloud Event Sourcing Security
+Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. Load Balancing JWT Multi-threading JavaScript DNS Routing Cloud Functions API Gateway Version Control Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. Frontend

@@ -16,3 +16,4 @@ DevOps Cloud Neural Networks Database Indexing Agile
 To be the best, you must be able to handle the worst. Database If you can dream it, you can do it. Opportunities don't happen. You create them. Artificial Intelligence Server Response
 API Gateway Code Review A/B Testing Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Load Testing Containerization Event-driven Architecture Server Response Cloud
 Predictive Analytics GraphQL Success is not in what you have, but who you are. JWT Data Science NLP JavaScript React Docker Monitoring
+Optimization Latency Optimization Content Delivery Network Docker Difficult roads often lead to beautiful destinations.
