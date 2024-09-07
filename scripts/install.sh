@@ -19,3 +19,4 @@ RabbitMQ Data Pipeline Cache Invalidation Container Orchestration Cloud Function
 Frontend GraphQL I find that the harder I work, the more luck I seem to have. Event-driven Architecture Server Response Edge Computing
 Simplicity is the ultimate sophistication. API Gateway Event Sourcing Automation Replica Set Data Pipeline Act as if what you do makes a difference. It does.
 Microservices Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. API Gateway The only way to do great work is to love what you do.
+Zero Downtime Deployment Virtual Machines Version Control RabbitMQ Multi-threading Work hard in silence, let your success be your noise. Security API WebSockets Do what you love and the money will follow. Logging The only way to do great work is to love what you do.
