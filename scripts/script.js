@@ -21,3 +21,4 @@ Innovation distinguishes between a leader and a follower. Kubernetes Scalability
 Monitoring JWT Work hard in silence, let your success be your noise. RabbitMQ Data Science Testing IoT Do what you love and the money will follow. Agile Message Queue OAuth Cache Invalidation
 If you can dream it, you can do it. Edge Computing Artificial Intelligence Stay hungry, stay foolish. Firewalls Act as if what you do makes a difference. It does. Parallel Processing RabbitMQ Event Sourcing Content Delivery Network The only way to do great work is to love what you do. API Lambda Functions Message Queue
 Act as if what you do makes a difference. It does. Great things never come from comfort zones. Database Indexing Deployment Cloud Functions Framework Success is how high you bounce when you hit bottom.
+I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Monitoring Machine Learning Deployment GraphQL
