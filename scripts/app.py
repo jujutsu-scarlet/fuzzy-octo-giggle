@@ -22,3 +22,4 @@ Logging Database Indexing Scalability Microservices Cache Invalidation Success i
 Opportunities don't happen. You create them. Distributed Systems Difficult roads often lead to beautiful destinations. Performance Scalability
 Database Indexing GraphQL Big Data Load Testing Testing Microservices Docker Deployment Success is how high you bounce when you hit bottom. Agile Serverless API Gateway
 UX Optimization Code Review JavaScript Do what you love and the money will follow. Logging OAuth Container Orchestration Latency Optimization Data Pipeline Automation
+Event Sourcing Cloud Functions Machine Learning Data Pipeline Logging Stay hungry, stay foolish. Big Data Message Queue Deployment To be the best, you must be able to handle the worst. Event-driven Architecture Framework Content Delivery Network Don't be afraid to give up the good to go for the great.

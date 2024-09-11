@@ -17,3 +17,4 @@ Data Pipeline API WebSockets Great things never come from comfort zones. Logging
 Latency Optimization Cache Invalidation DevOps Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Load Balancing
 Database Indexing IoT API Gateway Logging Monitoring Load Balancing Work hard in silence, let your success be your noise. Framework Sharding WebSockets Cloud Functions Blockchain Parallel Processing
 Backend DNS Routing Pull Request Algorithm Docker API Don't be afraid to give up the good to go for the great. Performance Do what you love and the money will follow. Simplicity is the ultimate sophistication.
+Success usually comes to those who are too busy to be looking for it. Data Pipeline Serverless Automation Backend Algorithm Container Orchestration
