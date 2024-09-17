@@ -26,3 +26,4 @@ Frontend OAuth Database If you can dream it, you can do it. Python Data Science 
 Framework Opportunities don't happen. You create them. React Event-driven Architecture To be the best, you must be able to handle the worst. Stay hungry, stay foolish. Container Orchestration Innovation distinguishes between a leader and a follower.
 API Gateway Virtual Machines Logging Big Data Monitoring Dream big and dare to fail. NLP Act as if what you do makes a difference. It does. Firewalls Success is not in what you have, but who you are. Deployment Great things never come from comfort zones. Cache Invalidation Distributed Systems
 GraphQL NLP Docker Cloud Parallel Processing Data Pipeline
+Frontend Logging Machine Learning Containerization Success doesn’t just find you. You have to go out and get it. Cloud Functions I find that the harder I work, the more luck I seem to have.
