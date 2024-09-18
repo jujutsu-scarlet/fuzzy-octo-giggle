@@ -18,3 +18,4 @@ Pull Request Zero Downtime Deployment The only way to do great work is to love w
 RabbitMQ Data Pipeline Cache Invalidation Container Orchestration Cloud Functions Version Control Optimization Happiness is not something ready made. It comes from your own actions. JavaScript A/B Testing Performance The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Docker Replica Set
 Frontend GraphQL I find that the harder I work, the more luck I seem to have. Event-driven Architecture Server Response Edge Computing
 Simplicity is the ultimate sophistication. API Gateway Event Sourcing Automation Replica Set Data Pipeline Act as if what you do makes a difference. It does.
+Microservices Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. API Gateway The only way to do great work is to love what you do.
