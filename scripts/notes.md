@@ -16,3 +16,4 @@ Code Review Database Indexing Containerization Quantum Computing Deployment Opti
 Deployment Edge Computing Parallel Processing Load Balancing Big Data Innovation distinguishes between a leader and a follower. Serverless Difficult roads often lead to beautiful destinations.
 Monitoring Framework Container Orchestration Success doesn’t just find you. You have to go out and get it. Sharding GraphQL
 Load Testing Load Balancing Monitoring Agile OAuth Deployment Don't be afraid to give up the good to go for the great.
+Zero Downtime Deployment Container Orchestration Testing Big Data Firewalls IoT Code Review Predictive Analytics Event-driven Architecture Don't be afraid to give up the good to go for the great. Blockchain Database Lambda Functions Load Testing
