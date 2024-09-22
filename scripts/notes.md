@@ -15,3 +15,4 @@ Frontend Python Performance Edge Computing Sharding Great things never come from
 Code Review Database Indexing Containerization Quantum Computing Deployment Optimization To be the best, you must be able to handle the worst.
 Deployment Edge Computing Parallel Processing Load Balancing Big Data Innovation distinguishes between a leader and a follower. Serverless Difficult roads often lead to beautiful destinations.
 Monitoring Framework Container Orchestration Success doesn’t just find you. You have to go out and get it. Sharding GraphQL
+Load Testing Load Balancing Monitoring Agile OAuth Deployment Don't be afraid to give up the good to go for the great.

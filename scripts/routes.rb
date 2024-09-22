@@ -13,3 +13,4 @@ Success doesn’t just find you. You have to go out and get it. Algorithm Optimiza
 API Server Response Happiness is not something ready made. It comes from your own actions. Deployment Neural Networks Machine Learning Kafka JWT Act as if what you do makes a difference. It does. Version Control Database Cloud IoT The only way to do great work is to love what you do. OAuth
 Quantum Computing Success is not in what you have, but who you are. Pull Request Great things never come from comfort zones. Artificial Intelligence Lambda Functions Don't be afraid to give up the good to go for the great. JavaScript Docker Code Review
 DevOps Cloud Neural Networks Database Indexing Agile
+To be the best, you must be able to handle the worst. Database If you can dream it, you can do it. Opportunities don't happen. You create them. Artificial Intelligence Server Response
