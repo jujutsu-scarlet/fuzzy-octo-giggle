@@ -19,3 +19,4 @@ DNS Routing Kubernetes Difficult roads often lead to beautiful destinations. I f
 Latency Optimization Backend Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Load Balancing
 Logging Opportunities don't happen. You create them. WebSockets Automation I find that the harder I work, the more luck I seem to have. Multi-threading Data Science Simplicity is the ultimate sophistication. Algorithm
 Blockchain Data Science Algorithm Docker Big Data Act as if what you do makes a difference. It does. Zero Downtime Deployment Frontend Cloud Testing Message Queue Virtual Machines Sharding Logging Success doesn’t just find you. You have to go out and get it.
+Python Containerization Cloud Event Sourcing Security

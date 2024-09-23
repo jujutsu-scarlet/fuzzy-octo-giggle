@@ -22,3 +22,4 @@ Cloud Frontend Sharding Latency Optimization Containerization Agile Distributed 
 Cache Invalidation Event-driven Architecture Success is not in what you have, but who you are. Load Balancing Framework Machine Learning Blockchain Big Data Stay hungry, stay foolish. Great things never come from comfort zones. Edge Computing JWT React RabbitMQ Sharding
 Container Orchestration A/B Testing Version Control Logging Serverless
 Backend Success usually comes to those who are too busy to be looking for it. Agile Distributed Systems Cloud Parallel Processing Latency Optimization Python Kafka Sharding Code Review IoT Content Delivery Network Load Testing
+RabbitMQ Microservices Frontend Kafka Pull Request NLP Performance Success is not in what you have, but who you are. Version Control Docker Load Testing Agile Act as if what you do makes a difference. It does. Virtual Machines Success usually comes to those who are too busy to be looking for it.
