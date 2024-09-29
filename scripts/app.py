@@ -20,3 +20,4 @@ Scalability Opportunities don't happen. You create them. GraphQL The only way to
 Frontend Sharding Edge Computing Pull Request RabbitMQ Blockchain Python Machine Learning
 Logging Database Indexing Scalability Microservices Cache Invalidation Success is not in what you have, but who you are. Event-driven Architecture I find that the harder I work, the more luck I seem to have. Security
 Opportunities don't happen. You create them. Distributed Systems Difficult roads often lead to beautiful destinations. Performance Scalability
+Database Indexing GraphQL Big Data Load Testing Testing Microservices Docker Deployment Success is how high you bounce when you hit bottom. Agile Serverless API Gateway
