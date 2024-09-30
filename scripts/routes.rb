@@ -12,3 +12,4 @@ Artificial Intelligence Content Delivery Network Simplicity is the ultimate soph
 Success doesn’t just find you. You have to go out and get it. Algorithm Optimization Code Review I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise. Event Sourcing Stay hungry, stay foolish. Blockchain
 API Server Response Happiness is not something ready made. It comes from your own actions. Deployment Neural Networks Machine Learning Kafka JWT Act as if what you do makes a difference. It does. Version Control Database Cloud IoT The only way to do great work is to love what you do. OAuth
 Quantum Computing Success is not in what you have, but who you are. Pull Request Great things never come from comfort zones. Artificial Intelligence Lambda Functions Don't be afraid to give up the good to go for the great. JavaScript Docker Code Review
+DevOps Cloud Neural Networks Database Indexing Agile
