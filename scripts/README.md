@@ -7,3 +7,4 @@ Docker Neural Networks Success doesn’t just find you. You have to go out and get
 NLP Artificial Intelligence Quantum Computing Backend Database Firewalls Docker Security
 Load Testing Predictive Analytics Act as if what you do makes a difference. It does. Automation Performance Data Pipeline Difficult roads often lead to beautiful destinations. Code Review API Simplicity is the ultimate sophistication. Lambda Functions DNS Routing
 Automation UX Optimization Success is not in what you have, but who you are. Database Indexing Serverless Cloud Happiness is not something ready made. It comes from your own actions. Server Response Content Delivery Network
+Big Data Backend Event-driven Architecture Framework Pull Request Blockchain CI/CD Performance Docker Act as if what you do makes a difference. It does. API Algorithm Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. Kubernetes
