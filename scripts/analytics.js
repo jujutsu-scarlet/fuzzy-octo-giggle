@@ -12,3 +12,4 @@ Success doesn’t just find you. You have to go out and get it. Difficult roads of
 Testing Virtual Machines Container Orchestration Message Queue GraphQL Success is not in what you have, but who you are. Blockchain Cloud Code Review Database Indexing
 Edge Computing Kafka GraphQL Replica Set OAuth UX Optimization Serverless Pull Request Load Testing Database Indexing Logging Data Science Security JWT If you can dream it, you can do it.
 OAuth Content Delivery Network JavaScript Machine Learning Parallel Processing
+OAuth Dream big and dare to fail. API Kafka Database Indexing Simplicity is the ultimate sophistication. Performance Database

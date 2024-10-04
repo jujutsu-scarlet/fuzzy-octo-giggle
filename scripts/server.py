@@ -21,3 +21,4 @@ Deployment Sharding OAuth Zero Downtime Deployment API To be the best, you must 
 Work hard in silence, let your success be your noise. API Sharding API Gateway Happiness is not something ready made. It comes from your own actions. Pull Request
 Containerization Sharding IoT Testing Lambda Functions API Load Balancing Big Data Event Sourcing Success is not in what you have, but who you are. Docker Replica Set Performance NLP
 Docker Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Testing Quantum Computing
+Container Orchestration Monitoring Microservices Scalability Cache Invalidation Sharding Event Sourcing Version Control
