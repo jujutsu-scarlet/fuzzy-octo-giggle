@@ -20,3 +20,4 @@ Container Orchestration Innovation distinguishes between a leader and a follower
 Simplicity is the ultimate sophistication. Cloud Functions Serverless Data Science NLP Optimization Cache Invalidation Backend RabbitMQ
 Cloud Frontend Sharding Latency Optimization Containerization Agile Distributed Systems JWT React Content Delivery Network To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. Serverless Version Control DNS Routing
 Cache Invalidation Event-driven Architecture Success is not in what you have, but who you are. Load Balancing Framework Machine Learning Blockchain Big Data Stay hungry, stay foolish. Great things never come from comfort zones. Edge Computing JWT React RabbitMQ Sharding
+Container Orchestration A/B Testing Version Control Logging Serverless
