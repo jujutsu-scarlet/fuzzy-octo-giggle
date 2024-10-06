@@ -21,3 +21,4 @@ Python Logging Performance Database Indexing Cache Invalidation Blockchain NLP M
 JWT Message Queue RabbitMQ GraphQL Artificial Intelligence Dream big and dare to fail. Latency Optimization
 Backend Difficult roads often lead to beautiful destinations. RabbitMQ Data Science Kubernetes Great things never come from comfort zones. Monitoring Cloud Act as if what you do makes a difference. It does. If you can dream it, you can do it. Server Response Success is how high you bounce when you hit bottom. Load Balancing Python To be the best, you must be able to handle the worst.
 The only way to do great work is to love what you do. Security Simplicity is the ultimate sophistication. Blockchain OAuth
+Cloud Functions Agile Distributed Systems Difficult roads often lead to beautiful destinations. Microservices Framework Blockchain Security I find that the harder I work, the more luck I seem to have.
