@@ -19,3 +19,4 @@ Frontend Performance I find that the harder I work, the more luck I seem to have
 Scalability Opportunities don't happen. You create them. GraphQL The only way to do great work is to love what you do. Algorithm
 Frontend Sharding Edge Computing Pull Request RabbitMQ Blockchain Python Machine Learning
 Logging Database Indexing Scalability Microservices Cache Invalidation Success is not in what you have, but who you are. Event-driven Architecture I find that the harder I work, the more luck I seem to have. Security
+Opportunities don't happen. You create them. Distributed Systems Difficult roads often lead to beautiful destinations. Performance Scalability
