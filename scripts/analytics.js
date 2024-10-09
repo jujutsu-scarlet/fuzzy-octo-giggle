@@ -10,3 +10,4 @@ Serverless Difficult roads often lead to beautiful destinations. Scalability API
 Success is how high you bounce when you hit bottom. DevOps Big Data Multi-threading Monitoring Cloud UX Optimization Testing Opportunities don't happen. You create them. Automation Server Response Deployment Microservices
 Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Cloud Functions Big Data Framework Firewalls Microservices Stay hungry, stay foolish. IoT Success usually comes to those who are too busy to be looking for it. Version Control Predictive Analytics
 Testing Virtual Machines Container Orchestration Message Queue GraphQL Success is not in what you have, but who you are. Blockchain Cloud Code Review Database Indexing
+Edge Computing Kafka GraphQL Replica Set OAuth UX Optimization Serverless Pull Request Load Testing Database Indexing Logging Data Science Security JWT If you can dream it, you can do it.
