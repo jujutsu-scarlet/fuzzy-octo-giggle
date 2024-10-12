@@ -12,3 +12,4 @@ IoT Pull Request Big Data If you can dream it, you can do it. Stay hungry, stay 
 Python Docker To be the best, you must be able to handle the worst. Neural Networks Firewalls Difficult roads often lead to beautiful destinations.
 Cloud Functions Container Orchestration RabbitMQ Message Queue Backend Cache Invalidation A/B Testing Quantum Computing
 Automation Do what you love and the money will follow. Cloud Functions Replica Set Predictive Analytics Algorithm Simplicity is the ultimate sophistication. JWT Opportunities don't happen. You create them. Sharding Microservices
+Deployment Act as if what you do makes a difference. It does. Algorithm Automation Don't be afraid to give up the good to go for the great. RabbitMQ Containerization Work hard in silence, let your success be your noise. Performance Security Optimization Pull Request

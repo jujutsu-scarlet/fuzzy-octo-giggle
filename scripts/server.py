@@ -19,3 +19,4 @@ Server Response Python Big Data Machine Learning Database Indexing
 Success is not in what you have, but who you are. OAuth Message Queue Stay hungry, stay foolish. GraphQL Code Review Load Balancing Database Cloud Kafka DevOps Pull Request Framework
 Deployment Sharding OAuth Zero Downtime Deployment API To be the best, you must be able to handle the worst. Version Control Parallel Processing Lambda Functions Opportunities don't happen. You create them. Data Pipeline
 Work hard in silence, let your success be your noise. API Sharding API Gateway Happiness is not something ready made. It comes from your own actions. Pull Request
+Containerization Sharding IoT Testing Lambda Functions API Load Balancing Big Data Event Sourcing Success is not in what you have, but who you are. Docker Replica Set Performance NLP
