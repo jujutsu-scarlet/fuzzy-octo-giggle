@@ -13,3 +13,4 @@ Do what you love and the money will follow. Machine Learning Optimization Rabbit
 DevOps Predictive Analytics UX Optimization Blockchain Stay hungry, stay foolish.
 Frontend Python Performance Edge Computing Sharding Great things never come from comfort zones. Quantum Computing API Innovation distinguishes between a leader and a follower. OAuth Difficult roads often lead to beautiful destinations. Lambda Functions To be the best, you must be able to handle the worst. Backend
 Code Review Database Indexing Containerization Quantum Computing Deployment Optimization To be the best, you must be able to handle the worst.
+Deployment Edge Computing Parallel Processing Load Balancing Big Data Innovation distinguishes between a leader and a follower. Serverless Difficult roads often lead to beautiful destinations.
