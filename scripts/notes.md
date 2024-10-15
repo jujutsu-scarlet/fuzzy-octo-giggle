@@ -12,3 +12,4 @@ DNS Routing Do what you love and the money will follow. Replica Set Opportunitie
 Do what you love and the money will follow. Machine Learning Optimization RabbitMQ OAuth Kubernetes Work hard in silence, let your success be your noise. The only way to do great work is to love what you do.
 DevOps Predictive Analytics UX Optimization Blockchain Stay hungry, stay foolish.
 Frontend Python Performance Edge Computing Sharding Great things never come from comfort zones. Quantum Computing API Innovation distinguishes between a leader and a follower. OAuth Difficult roads often lead to beautiful destinations. Lambda Functions To be the best, you must be able to handle the worst. Backend
+Code Review Database Indexing Containerization Quantum Computing Deployment Optimization To be the best, you must be able to handle the worst.

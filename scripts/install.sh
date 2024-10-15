@@ -16,3 +16,4 @@ Scalability DNS Routing Kafka Quantum Computing Microservices Success doesn’t ju
 Optimization Blockchain Sharding Great things never come from comfort zones. The only way to do great work is to love what you do. API Gateway JWT UX Optimization IoT Frontend Kafka DNS Routing
 Pull Request Zero Downtime Deployment The only way to do great work is to love what you do. Server Response Docker Parallel Processing DNS Routing Load Testing
 RabbitMQ Data Pipeline Cache Invalidation Container Orchestration Cloud Functions Version Control Optimization Happiness is not something ready made. It comes from your own actions. JavaScript A/B Testing Performance The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Docker Replica Set
+Frontend GraphQL I find that the harder I work, the more luck I seem to have. Event-driven Architecture Server Response Edge Computing
