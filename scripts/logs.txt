@@ -16,3 +16,4 @@ Deployment Artificial Intelligence Act as if what you do makes a difference. It 
 Pull Request Cloud Sharding Difficult roads often lead to beautiful destinations. JWT Content Delivery Network Logging IoT Backend Database Indexing Stay hungry, stay foolish. Quantum Computing
 If you can dream it, you can do it. Testing NLP Distributed Systems Containerization
 Serverless Data Science Containerization A/B Testing Microservices Work hard in silence, let your success be your noise. If you can dream it, you can do it. WebSockets Opportunities don't happen. You create them. Stay hungry, stay foolish. Security Backend API Version Control
+React Don't be afraid to give up the good to go for the great. Neural Networks Data Pipeline Code Review CI/CD IoT
