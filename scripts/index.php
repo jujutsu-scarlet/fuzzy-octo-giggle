@@ -10,3 +10,4 @@ Latency Optimization Containerization The only way to do great work is to love w
 Distributed Systems Do what you love and the money will follow. Load Testing Kafka Quantum Computing To be the best, you must be able to handle the worst. Server Response Optimization JavaScript Innovation distinguishes between a leader and a follower. JWT Container Orchestration Deployment
 IoT Pull Request Big Data If you can dream it, you can do it. Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Content Delivery Network RabbitMQ Performance Success is not in what you have, but who you are. Lambda Functions GraphQL Edge Computing NLP
 Python Docker To be the best, you must be able to handle the worst. Neural Networks Firewalls Difficult roads often lead to beautiful destinations.
+Cloud Functions Container Orchestration RabbitMQ Message Queue Backend Cache Invalidation A/B Testing Quantum Computing
