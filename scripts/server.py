@@ -17,3 +17,4 @@ Distributed Systems Simplicity is the ultimate sophistication. DevOps Success is
 DNS Routing Database Virtual Machines Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Serverless Load Testing To be the best, you must be able to handle the worst. Predictive Analytics Agile Kafka Data Pipeline Multi-threading Blockchain The only way to do great work is to love what you do.
 Server Response Python Big Data Machine Learning Database Indexing
 Success is not in what you have, but who you are. OAuth Message Queue Stay hungry, stay foolish. GraphQL Code Review Load Balancing Database Cloud Kafka DevOps Pull Request Framework
+Deployment Sharding OAuth Zero Downtime Deployment API To be the best, you must be able to handle the worst. Version Control Parallel Processing Lambda Functions Opportunities don't happen. You create them. Data Pipeline
