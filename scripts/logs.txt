@@ -14,3 +14,4 @@ JavaScript NLP Work hard in silence, let your success be your noise. JWT React G
 Cloud Cloud Functions CI/CD Data Science A/B Testing
 Deployment Artificial Intelligence Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Performance React RabbitMQ Firewalls Database Indexing To be the best, you must be able to handle the worst. Server Response Edge Computing Agile
 Pull Request Cloud Sharding Difficult roads often lead to beautiful destinations. JWT Content Delivery Network Logging IoT Backend Database Indexing Stay hungry, stay foolish. Quantum Computing
+If you can dream it, you can do it. Testing NLP Distributed Systems Containerization
