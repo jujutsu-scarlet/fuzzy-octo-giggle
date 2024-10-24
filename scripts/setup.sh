@@ -13,3 +13,4 @@ Load Testing Success doesn’t just find you. You have to go out and get it. Code 
 Zero Downtime Deployment RabbitMQ Cloud UX Optimization Code Review Agile Message Queue GraphQL Container Orchestration
 Innovation distinguishes between a leader and a follower. Testing Automation Distributed Systems NLP Server Response DevOps
 Monitoring UX Optimization Virtual Machines Dream big and dare to fail. Backend Don't be afraid to give up the good to go for the great. Load Testing Version Control Optimization If you can dream it, you can do it.
+Version Control Dream big and dare to fail. Kafka Lambda Functions Algorithm OAuth Artificial Intelligence Data Pipeline WebSockets If you can dream it, you can do it. Testing Multi-threading Docker To be the best, you must be able to handle the worst.

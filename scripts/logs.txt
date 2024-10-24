@@ -13,3 +13,4 @@ Success is how high you bounce when you hit bottom. Event-driven Architecture Qu
 JavaScript NLP Work hard in silence, let your success be your noise. JWT React Great things never come from comfort zones. Predictive Analytics Quantum Computing Don't be afraid to give up the good to go for the great.
 Cloud Cloud Functions CI/CD Data Science A/B Testing
 Deployment Artificial Intelligence Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Performance React RabbitMQ Firewalls Database Indexing To be the best, you must be able to handle the worst. Server Response Edge Computing Agile
+Pull Request Cloud Sharding Difficult roads often lead to beautiful destinations. JWT Content Delivery Network Logging IoT Backend Database Indexing Stay hungry, stay foolish. Quantum Computing
