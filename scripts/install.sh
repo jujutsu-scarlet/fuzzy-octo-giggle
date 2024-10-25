@@ -12,3 +12,4 @@ Logging Cloud Functions NLP Firewalls Content Delivery Network Predictive Analyt
 Innovation distinguishes between a leader and a follower. Blockchain Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Agile Neural Networks Big Data Cache Invalidation
 Server Response Zero Downtime Deployment Load Balancing Containerization The only way to do great work is to love what you do. A/B Testing
 UX Optimization Big Data JWT To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Firewalls Edge Computing Multi-threading Framework
+Scalability DNS Routing Kafka Quantum Computing Microservices Success doesn’t just find you. You have to go out and get it. Kubernetes Serverless NLP Performance OAuth Act as if what you do makes a difference. It does. DevOps Deployment Parallel Processing
