@@ -13,3 +13,4 @@ DevOps Scalability Great things never come from comfort zones. UX Optimization S
 Backend Frontend Cloud Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication.
 Opportunities don't happen. You create them. Security Predictive Analytics NLP Testing Multi-threading Automation Quantum Computing Great things never come from comfort zones. Microservices Success is not in what you have, but who you are. Data Science
 Performance Event Sourcing Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. Pull Request
+Logging Artificial Intelligence Load Balancing Scalability Agile UX Optimization
