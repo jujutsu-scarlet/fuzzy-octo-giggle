@@ -6,3 +6,4 @@ Backend Framework Optimization Database Frontend Firewalls UX Optimization DevOp
 Docker Neural Networks Success doesn’t just find you. You have to go out and get it. Pull Request OAuth DevOps Cache Invalidation Version Control Frontend Database Indexing Cloud Functions
 NLP Artificial Intelligence Quantum Computing Backend Database Firewalls Docker Security
 Load Testing Predictive Analytics Act as if what you do makes a difference. It does. Automation Performance Data Pipeline Difficult roads often lead to beautiful destinations. Code Review API Simplicity is the ultimate sophistication. Lambda Functions DNS Routing
+Automation UX Optimization Success is not in what you have, but who you are. Database Indexing Serverless Cloud Happiness is not something ready made. It comes from your own actions. Server Response Content Delivery Network
