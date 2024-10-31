@@ -10,3 +10,4 @@ Machine Learning JavaScript Virtual Machines Backend API Gateway Kubernetes Quan
 Do what you love and the money will follow. Load Testing Performance To be the best, you must be able to handle the worst. Database Indexing Automation Success is not in what you have, but who you are. Firewalls Multi-threading GraphQL UX Optimization Message Queue Happiness is not something ready made. It comes from your own actions. Docker Cloud Functions
 DNS Routing Do what you love and the money will follow. Replica Set Opportunities don't happen. You create them. Serverless Docker
 Do what you love and the money will follow. Machine Learning Optimization RabbitMQ OAuth Kubernetes Work hard in silence, let your success be your noise. The only way to do great work is to love what you do.
+DevOps Predictive Analytics UX Optimization Blockchain Stay hungry, stay foolish.
