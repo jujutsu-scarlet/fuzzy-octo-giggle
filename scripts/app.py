@@ -14,3 +14,4 @@ Artificial Intelligence Agile Dream big and dare to fail. Load Balancing OAuth I
 Frontend Work hard in silence, let your success be your noise. If you can dream it, you can do it. Stay hungry, stay foolish. Algorithm Docker Predictive Analytics
 Serverless Opportunities don't happen. You create them. Cache Invalidation Server Response Kafka DNS Routing
 JavaScript Edge Computing Python Event-driven Architecture Dream big and dare to fail. Replica Set UX Optimization Logging Agile Opportunities don't happen. You create them. Parallel Processing
+A/B Testing Performance Microservices Opportunities don't happen. You create them. Message Queue Database Indexing Sharding Kafka API Gateway Cloud Functions
