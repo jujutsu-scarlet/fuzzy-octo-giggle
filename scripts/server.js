@@ -11,3 +11,4 @@ Pull Request To be the best, you must be able to handle the worst. Framework Suc
 Quantum Computing Version Control Server Response Containerization Serverless Innovation distinguishes between a leader and a follower. Event Sourcing Security Distributed Systems
 DevOps Scalability Great things never come from comfort zones. UX Optimization Success usually comes to those who are too busy to be looking for it. Python JavaScript
 Backend Frontend Cloud Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication.
+Opportunities don't happen. You create them. Security Predictive Analytics NLP Testing Multi-threading Automation Quantum Computing Great things never come from comfort zones. Microservices Success is not in what you have, but who you are. Data Science
