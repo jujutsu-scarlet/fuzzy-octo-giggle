@@ -14,3 +14,4 @@ Kubernetes Content Delivery Network Latency Optimization Virtual Machines Opport
 Latency Optimization Deployment IoT NLP DNS Routing Opportunities don't happen. You create them. Frontend Firewalls Happiness is not something ready made. It comes from your own actions. Database Microservices Logging
 Work hard in silence, let your success be your noise. DevOps Simplicity is the ultimate sophistication. Performance Distributed Systems Message Queue
 GraphQL Dream big and dare to fail. Performance Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. Backend Firewalls I find that the harder I work, the more luck I seem to have. NLP Predictive Analytics Quantum Computing RabbitMQ
+Load Balancing Latency Optimization Simplicity is the ultimate sophistication. Firewalls Content Delivery Network I find that the harder I work, the more luck I seem to have. Data Science

@@ -8,3 +8,4 @@ Simplicity is the ultimate sophistication. Machine Learning OAuth API Gateway Mi
 Artificial Intelligence Kafka Algorithm Testing Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Backend Load Testing NLP Load Balancing
 A/B Testing Latency Optimization Data Science Backend Load Balancing RabbitMQ Replica Set Event-driven Architecture Data Pipeline Virtual Machines Python Kubernetes GraphQL Don't be afraid to give up the good to go for the great.
 To be the best, you must be able to handle the worst. Algorithm Sharding Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. Frontend
+Artificial Intelligence Content Delivery Network Simplicity is the ultimate sophistication. Performance Database Kubernetes Kafka Don't be afraid to give up the good to go for the great. Cloud Functions DNS Routing Agile Success is not in what you have, but who you are. JWT
