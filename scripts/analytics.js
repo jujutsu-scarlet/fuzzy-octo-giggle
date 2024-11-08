@@ -7,3 +7,4 @@ Dream big and dare to fail. Scalability Artificial Intelligence JWT Replica Set 
 Data Pipeline Docker Monitoring Logging Cache Invalidation WebSockets
 Cloud Neural Networks Dream big and dare to fail. Virtual Machines If you can dream it, you can do it. Multi-threading Quantum Computing
 Serverless Difficult roads often lead to beautiful destinations. Scalability API DNS Routing Event Sourcing Data Science Success doesn’t just find you. You have to go out and get it. Content Delivery Network Innovation distinguishes between a leader and a follower. Python I find that the harder I work, the more luck I seem to have. Sharding Predictive Analytics
+Success is how high you bounce when you hit bottom. DevOps Big Data Multi-threading Monitoring Cloud UX Optimization Testing Opportunities don't happen. You create them. Automation Server Response Deployment Microservices
