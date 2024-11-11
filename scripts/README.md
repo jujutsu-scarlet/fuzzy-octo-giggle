@@ -5,3 +5,4 @@ Agile A/B Testing API Gateway Edge Computing Data Science Cloud Difficult roads 
 Backend Framework Optimization Database Frontend Firewalls UX Optimization DevOps Microservices To be the best, you must be able to handle the worst. Database Indexing Content Delivery Network Kafka
 Docker Neural Networks Success doesn’t just find you. You have to go out and get it. Pull Request OAuth DevOps Cache Invalidation Version Control Frontend Database Indexing Cloud Functions
 NLP Artificial Intelligence Quantum Computing Backend Database Firewalls Docker Security
+Load Testing Predictive Analytics Act as if what you do makes a difference. It does. Automation Performance Data Pipeline Difficult roads often lead to beautiful destinations. Code Review API Simplicity is the ultimate sophistication. Lambda Functions DNS Routing
