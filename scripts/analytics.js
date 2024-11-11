@@ -6,3 +6,4 @@ Success usually comes to those who are too busy to be looking for it. API Gatewa
 Dream big and dare to fail. Scalability Artificial Intelligence JWT Replica Set NLP API Gateway
 Data Pipeline Docker Monitoring Logging Cache Invalidation WebSockets
 Cloud Neural Networks Dream big and dare to fail. Virtual Machines If you can dream it, you can do it. Multi-threading Quantum Computing
+Serverless Difficult roads often lead to beautiful destinations. Scalability API DNS Routing Event Sourcing Data Science Success doesn’t just find you. You have to go out and get it. Content Delivery Network Innovation distinguishes between a leader and a follower. Python I find that the harder I work, the more luck I seem to have. Sharding Predictive Analytics
