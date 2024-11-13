@@ -10,3 +10,4 @@ Security Zero Downtime Deployment RabbitMQ Frontend Automation Don't be afraid t
 Stay hungry, stay foolish. Serverless Kafka JWT Version Control
 To be the best, you must be able to handle the worst. Scalability Opportunities don't happen. You create them. Big Data The only way to do great work is to love what you do. Sharding Success is not in what you have, but who you are. DNS Routing
 Microservices Innovation distinguishes between a leader and a follower. Edge Computing Lambda Functions To be the best, you must be able to handle the worst. GraphQL
+Machine Learning Backend Happiness is not something ready made. It comes from your own actions. DevOps Serverless Lambda Functions Virtual Machines Python GraphQL Container Orchestration Success is how high you bounce when you hit bottom. JavaScript Multi-threading Optimization Cloud Functions
