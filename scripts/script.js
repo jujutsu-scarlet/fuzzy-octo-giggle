@@ -8,3 +8,4 @@ Edge Computing OAuth Framework Event Sourcing UX Optimization React Success usua
 Security Logging Event-driven Architecture Blockchain To be the best, you must be able to handle the worst. Microservices Algorithm Backend Replica Set
 Security Zero Downtime Deployment RabbitMQ Frontend Automation Don't be afraid to give up the good to go for the great.
 Stay hungry, stay foolish. Serverless Kafka JWT Version Control
+To be the best, you must be able to handle the worst. Scalability Opportunities don't happen. You create them. Big Data The only way to do great work is to love what you do. Sharding Success is not in what you have, but who you are. DNS Routing
