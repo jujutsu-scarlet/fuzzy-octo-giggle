@@ -12,3 +12,4 @@ Do what you love and the money will follow. Security Success is how high you bou
 The only way to do great work is to love what you do. Data Science Event-driven Architecture Server Response Success doesn’t just find you. You have to go out and get it. DNS Routing Container Orchestration Frontend Backend NLP Virtual Machines
 JavaScript Backend Automation Quantum Computing Containerization Multi-threading Zero Downtime Deployment
 Great things never come from comfort zones. Content Delivery Network Event-driven Architecture Automation Algorithm Docker Scalability Data Science Container Orchestration Act as if what you do makes a difference. It does. Kubernetes
+DevOps IoT Framework API Gateway Predictive Analytics Monitoring Artificial Intelligence JWT Version Control
