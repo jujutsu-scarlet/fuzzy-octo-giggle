@@ -11,3 +11,4 @@ JavaScript Dream big and dare to fail. Version Control DevOps Success doesn’t ju
 Event Sourcing Database Zero Downtime Deployment Code Review Algorithm Work hard in silence, let your success be your noise. JavaScript IoT Kubernetes API Docker Multi-threading Python Pull Request
 WebSockets Event Sourcing Version Control If you can dream it, you can do it. DevOps IoT
 Artificial Intelligence Agile Dream big and dare to fail. Load Balancing OAuth Innovation distinguishes between a leader and a follower. Containerization Security Don't be afraid to give up the good to go for the great. Frontend
+Frontend Work hard in silence, let your success be your noise. If you can dream it, you can do it. Stay hungry, stay foolish. Algorithm Docker Predictive Analytics

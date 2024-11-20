@@ -17,3 +17,4 @@ Pull Request CI/CD Distributed Systems Success is how high you bounce when you h
 Artificial Intelligence Success is how high you bounce when you hit bottom. Replica Set Data Pipeline Simplicity is the ultimate sophistication. Virtual Machines OAuth
 Multi-threading Opportunities don't happen. You create them. Do what you love and the money will follow. Container Orchestration Load Testing API Gateway
 Success usually comes to those who are too busy to be looking for it. Quantum Computing Opportunities don't happen. You create them. If you can dream it, you can do it. Distributed Systems CI/CD Latency Optimization Container Orchestration Server Response
+Success doesn’t just find you. You have to go out and get it. Serverless Version Control Edge Computing Event-driven Architecture Cache Invalidation Microservices If you can dream it, you can do it. Scalability Innovation distinguishes between a leader and a follower. Deployment
