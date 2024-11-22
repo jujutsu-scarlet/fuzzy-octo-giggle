@@ -15,3 +15,4 @@ A/B Testing JWT Security Logging Distributed Systems Parallel Processing Docker
 Microservices To be the best, you must be able to handle the worst. NLP Cache Invalidation Distributed Systems JWT Framework
 Distributed Systems Simplicity is the ultimate sophistication. DevOps Success is how high you bounce when you hit bottom. RabbitMQ Code Review Opportunities don't happen. You create them. Do what you love and the money will follow. Microservices Great things never come from comfort zones. Predictive Analytics
 DNS Routing Database Virtual Machines Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Serverless Load Testing To be the best, you must be able to handle the worst. Predictive Analytics Agile Kafka Data Pipeline Multi-threading Blockchain The only way to do great work is to love what you do.
+Server Response Python Big Data Machine Learning Database Indexing

@@ -7,3 +7,4 @@ Dream big and dare to fail. Big Data Opportunities don't happen. You create them
 Edge Computing OAuth Framework Event Sourcing UX Optimization React Success usually comes to those who are too busy to be looking for it. Logging Container Orchestration
 Security Logging Event-driven Architecture Blockchain To be the best, you must be able to handle the worst. Microservices Algorithm Backend Replica Set
 Security Zero Downtime Deployment RabbitMQ Frontend Automation Don't be afraid to give up the good to go for the great.
+Stay hungry, stay foolish. Serverless Kafka JWT Version Control
