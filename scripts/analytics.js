@@ -5,3 +5,4 @@ Innovation distinguishes between a leader and a follower. Security Cloud Functio
 Success usually comes to those who are too busy to be looking for it. API Gateway OAuth Containerization Quantum Computing Innovation distinguishes between a leader and a follower. Algorithm CI/CD Big Data Replica Set DNS Routing The only way to do great work is to love what you do.
 Dream big and dare to fail. Scalability Artificial Intelligence JWT Replica Set NLP API Gateway
 Data Pipeline Docker Monitoring Logging Cache Invalidation WebSockets
+Cloud Neural Networks Dream big and dare to fail. Virtual Machines If you can dream it, you can do it. Multi-threading Quantum Computing
