@@ -15,3 +15,4 @@ NLP Big Data Containerization Innovation distinguishes between a leader and a fo
 Optimization Logging Cloud Functions Automation Server Response Replica Set Microservices RabbitMQ I find that the harder I work, the more luck I seem to have. Cloud Lambda Functions Zero Downtime Deployment Scalability Kubernetes
 Pull Request CI/CD Distributed Systems Success is how high you bounce when you hit bottom. Event-driven Architecture Message Queue Big Data Artificial Intelligence Kubernetes Container Orchestration Cloud
 Artificial Intelligence Success is how high you bounce when you hit bottom. Replica Set Data Pipeline Simplicity is the ultimate sophistication. Virtual Machines OAuth
+Multi-threading Opportunities don't happen. You create them. Do what you love and the money will follow. Container Orchestration Load Testing API Gateway
