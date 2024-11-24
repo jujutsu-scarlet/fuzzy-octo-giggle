@@ -9,3 +9,4 @@ Sharding Code Review Framework Kubernetes Artificial Intelligence Serverless Sca
 Success doesn’t just find you. You have to go out and get it. Database DevOps To be the best, you must be able to handle the worst. Database Indexing CI/CD Agile Docker Machine Learning Performance Big Data
 JavaScript Dream big and dare to fail. Version Control DevOps Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. Neural Networks API Gateway Security Algorithm Cloud Functions
 Event Sourcing Database Zero Downtime Deployment Code Review Algorithm Work hard in silence, let your success be your noise. JavaScript IoT Kubernetes API Docker Multi-threading Python Pull Request
+WebSockets Event Sourcing Version Control If you can dream it, you can do it. DevOps IoT
