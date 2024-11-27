@@ -8,3 +8,4 @@ Containerization Load Testing UX Optimization API Success is not in what you hav
 Load Testing Version Control Agile Event-driven Architecture Dream big and dare to fail. Big Data IoT Cache Invalidation Success is not in what you have, but who you are. Frontend Data Pipeline Docker Automation WebSockets
 Edge Computing Distributed Systems Testing CI/CD Virtual Machines Database Indexing The only way to do great work is to love what you do. Kubernetes Don't be afraid to give up the good to go for the great. WebSockets Dream big and dare to fail. I find that the harder I work, the more luck I seem to have.
 Version Control Agile Cache Invalidation Success is how high you bounce when you hit bottom. UX Optimization
+Content Delivery Network Security Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Automation Container Orchestration If you can dream it, you can do it. Logging Do what you love and the money will follow. OAuth
