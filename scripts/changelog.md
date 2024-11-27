@@ -11,3 +11,4 @@ OAuth Success is not in what you have, but who you are. Data Pipeline Cloud Func
 Do what you love and the money will follow. Security Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Predictive Analytics OAuth Scalability
 The only way to do great work is to love what you do. Data Science Event-driven Architecture Server Response Success doesn’t just find you. You have to go out and get it. DNS Routing Container Orchestration Frontend Backend NLP Virtual Machines
 JavaScript Backend Automation Quantum Computing Containerization Multi-threading Zero Downtime Deployment
+Great things never come from comfort zones. Content Delivery Network Event-driven Architecture Automation Algorithm Docker Scalability Data Science Container Orchestration Act as if what you do makes a difference. It does. Kubernetes
