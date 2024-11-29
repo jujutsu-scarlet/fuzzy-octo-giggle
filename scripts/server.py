@@ -13,3 +13,4 @@ Testing Pull Request Great things never come from comfort zones. Logging Load Ba
 Security Load Balancing Zero Downtime Deployment If you can dream it, you can do it. Multi-threading Virtual Machines OAuth
 A/B Testing JWT Security Logging Distributed Systems Parallel Processing Docker
 Microservices To be the best, you must be able to handle the worst. NLP Cache Invalidation Distributed Systems JWT Framework
+Distributed Systems Simplicity is the ultimate sophistication. DevOps Success is how high you bounce when you hit bottom. RabbitMQ Code Review Opportunities don't happen. You create them. Do what you love and the money will follow. Microservices Great things never come from comfort zones. Predictive Analytics

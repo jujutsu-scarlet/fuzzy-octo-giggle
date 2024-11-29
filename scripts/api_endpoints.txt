@@ -13,3 +13,4 @@ If you can dream it, you can do it. Code Review API Load Balancing Load Testing 
 Kubernetes I find that the harder I work, the more luck I seem to have. Predictive Analytics Python The only way to do great work is to love what you do. Content Delivery Network Cloud NLP Virtual Machines Stay hungry, stay foolish.
 If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Sharding Success is how high you bounce when you hit bottom. Database
 The only way to do great work is to love what you do. Firewalls Performance Microservices Python Event-driven Architecture Dream big and dare to fail. WebSockets Success is not in what you have, but who you are. Deployment Logging JWT Load Balancing
+CI/CD Monitoring Neural Networks Database Logging OAuth Artificial Intelligence
