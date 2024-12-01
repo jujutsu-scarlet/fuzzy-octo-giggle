@@ -11,3 +11,4 @@ DNS Routing Edge Computing Latency Optimization Backend Act as if what you do ma
 Monitoring Performance Docker Pull Request Database Indexing Blockchain Framework Neural Networks UX Optimization Virtual Machines Replica Set Success usually comes to those who are too busy to be looking for it. Kafka Predictive Analytics
 Monitoring Zero Downtime Deployment A/B Testing IoT Message Queue RabbitMQ Pull Request Multi-threading Predictive Analytics
 Database Indexing Containerization Success is not in what you have, but who you are. DNS Routing Zero Downtime Deployment Testing Parallel Processing Lambda Functions Blockchain Backend UX Optimization Success is how high you bounce when you hit bottom. Message Queue Sharding Artificial Intelligence
+Blockchain Neural Networks Kubernetes Content Delivery Network API To be the best, you must be able to handle the worst. Container Orchestration
