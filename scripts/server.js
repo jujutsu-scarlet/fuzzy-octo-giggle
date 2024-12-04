@@ -7,3 +7,4 @@ Distributed Systems Kafka Success usually comes to those who are too busy to be 
 Container Orchestration NLP Cache Invalidation Optimization Latency Optimization Database Indexing Python
 GraphQL Load Testing React Lambda Functions Monitoring Automation Innovation distinguishes between a leader and a follower. A/B Testing RabbitMQ Docker
 Message Queue Optimization Server Response Big Data The only way to do great work is to love what you do. Multi-threading To be the best, you must be able to handle the worst.
+Pull Request To be the best, you must be able to handle the worst. Framework Success is how high you bounce when you hit bottom. Container Orchestration Testing
