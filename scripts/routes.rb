@@ -5,3 +5,4 @@ Happiness is not something ready made. It comes from your own actions. Act as if
 Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it. Virtual Machines Scalability Database A/B Testing Event Sourcing Work hard in silence, let your success be your noise. Replica Set Version Control
 Cloud Functions Blockchain Happiness is not something ready made. It comes from your own actions. Predictive Analytics Performance DNS Routing RabbitMQ
 Simplicity is the ultimate sophistication. Machine Learning OAuth API Gateway Microservices Success is how high you bounce when you hit bottom. DevOps Framework Containerization
+Artificial Intelligence Kafka Algorithm Testing Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Backend Load Testing NLP Load Balancing
