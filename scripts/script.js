@@ -4,3 +4,4 @@ Agile I find that the harder I work, the more luck I seem to have. Serverless If
 Version Control DevOps Logging Scalability React Optimization
 Simplicity is the ultimate sophistication. Content Delivery Network Cloud Functions Frontend Difficult roads often lead to beautiful destinations. Security Stay hungry, stay foolish. Edge Computing DevOps Optimization
 Dream big and dare to fail. Big Data Opportunities don't happen. You create them. Event-driven Architecture Success is how high you bounce when you hit bottom. Monitoring Machine Learning Blockchain
+Edge Computing OAuth Framework Event Sourcing UX Optimization React Success usually comes to those who are too busy to be looking for it. Logging Container Orchestration
