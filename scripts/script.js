@@ -3,3 +3,4 @@ Performance API Gateway Virtual Machines Work hard in silence, let your success 
 Agile I find that the harder I work, the more luck I seem to have. Serverless If you can dream it, you can do it. Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. Cloud Functions Cloud Edge Computing Machine Learning Dream big and dare to fail. Virtual Machines Deployment Success doesn’t just find you. You have to go out and get it.
 Version Control DevOps Logging Scalability React Optimization
 Simplicity is the ultimate sophistication. Content Delivery Network Cloud Functions Frontend Difficult roads often lead to beautiful destinations. Security Stay hungry, stay foolish. Edge Computing DevOps Optimization
+Dream big and dare to fail. Big Data Opportunities don't happen. You create them. Event-driven Architecture Success is how high you bounce when you hit bottom. Monitoring Machine Learning Blockchain
