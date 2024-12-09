@@ -6,3 +6,4 @@ Deployment Backend Cache Invalidation Do what you love and the money will follow
 Big Data Predictive Analytics Performance Parallel Processing A/B Testing API Gateway Event Sourcing Docker Monitoring Database Indexing Server Response Optimization Version Control
 API Monitoring Containerization Replica Set Security Virtual Machines DevOps Cloud Edge Computing
 Sharding Code Review Framework Kubernetes Artificial Intelligence Serverless Scalability DNS Routing Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Content Delivery Network Edge Computing
+Success doesn’t just find you. You have to go out and get it. Database DevOps To be the best, you must be able to handle the worst. Database Indexing CI/CD Agile Docker Machine Learning Performance Big Data
