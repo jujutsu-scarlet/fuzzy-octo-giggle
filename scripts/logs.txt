@@ -5,3 +5,4 @@ Event-driven Architecture Performance GraphQL Kubernetes Success doesn’t just fi
 Container Orchestration Don't be afraid to give up the good to go for the great. Zero Downtime Deployment JWT Opportunities don't happen. You create them. Security To be the best, you must be able to handle the worst.
 DNS Routing Scalability Version Control Zero Downtime Deployment Backend Frontend Blockchain Success doesn’t just find you. You have to go out and get it. Cloud Algorithm Kafka To be the best, you must be able to handle the worst.
 The only way to do great work is to love what you do. Frontend Scalability Agile Multi-threading
+WebSockets If you can dream it, you can do it. Opportunities don't happen. You create them. Data Science Happiness is not something ready made. It comes from your own actions. Multi-threading React Innovation distinguishes between a leader and a follower. Machine Learning Big Data JWT
