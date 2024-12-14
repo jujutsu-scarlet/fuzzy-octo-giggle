@@ -4,3 +4,4 @@ Artificial Intelligence If you can dream it, you can do it. Event Sourcing Datab
 Cloud Work hard in silence, let your success be your noise. Data Pipeline Container Orchestration Event-driven Architecture I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Security Load Testing
 Code Review Quantum Computing CI/CD RabbitMQ API Gateway Python Frontend Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Dream big and dare to fail. Load Balancing
 Act as if what you do makes a difference. It does. Optimization WebSockets Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Pull Request Server Response RabbitMQ Microservices
+Containerization Load Testing UX Optimization API Success is not in what you have, but who you are. Event-driven Architecture Load Balancing DevOps Deployment
