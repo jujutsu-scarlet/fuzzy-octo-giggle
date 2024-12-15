@@ -6,3 +6,4 @@ Great things never come from comfort zones. Data Pipeline Load Testing Docker Do
 Edge Computing Zero Downtime Deployment Work hard in silence, let your success be your noise. Agile Code Review
 Don't be afraid to give up the good to go for the great. Security Containerization Kubernetes NLP
 Event-driven Architecture A/B Testing Automation Message Queue Monitoring Don't be afraid to give up the good to go for the great. Deployment Latency Optimization Microservices Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. WebSockets Server Response Cloud Big Data
+Latency Optimization Containerization The only way to do great work is to love what you do. Artificial Intelligence Optimization Distributed Systems Microservices Zero Downtime Deployment Event Sourcing Serverless Load Testing Data Pipeline
