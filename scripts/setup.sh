@@ -11,3 +11,4 @@ JWT Don't be afraid to give up the good to go for the great. Stay hungry, stay f
 Quantum Computing Container Orchestration Monitoring Event-driven Architecture WebSockets To be the best, you must be able to handle the worst. Database Indexing Code Review Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Pull Request Kafka CI/CD
 Load Testing Success doesn’t just find you. You have to go out and get it. Code Review Performance Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Sharding Virtual Machines Load Balancing
 Zero Downtime Deployment RabbitMQ Cloud UX Optimization Code Review Agile Message Queue GraphQL Container Orchestration
+Innovation distinguishes between a leader and a follower. Testing Automation Distributed Systems NLP Server Response DevOps

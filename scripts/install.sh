@@ -6,3 +6,4 @@ Latency Optimization Firewalls UX Optimization The only way to do great work is 
 Success doesn’t just find you. You have to go out and get it. DevOps Event-driven Architecture Firewalls Multi-threading Content Delivery Network Server Response RabbitMQ Cloud Functions
 Predictive Analytics Database A/B Testing Algorithm Data Science Blockchain Version Control WebSockets Neural Networks JWT
 Frontend Success usually comes to those who are too busy to be looking for it. Latency Optimization Message Queue Agile Big Data React
+Success is not in what you have, but who you are. Frontend I find that the harder I work, the more luck I seem to have. Content Delivery Network Testing Load Balancing Docker

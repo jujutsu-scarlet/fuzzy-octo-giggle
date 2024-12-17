@@ -11,3 +11,4 @@ The only way to do great work is to love what you do. Data Science Do what you l
 Deployment RabbitMQ Security Work hard in silence, let your success be your noise. Machine Learning Artificial Intelligence Algorithm DevOps Firewalls API Gateway Automation IoT
 Testing Pull Request Great things never come from comfort zones. Logging Load Balancing Cloud Functions React Happiness is not something ready made. It comes from your own actions. Algorithm
 Security Load Balancing Zero Downtime Deployment If you can dream it, you can do it. Multi-threading Virtual Machines OAuth
+A/B Testing JWT Security Logging Distributed Systems Parallel Processing Docker
