@@ -4,3 +4,4 @@ Replica Set Automation Optimization Zero Downtime Deployment Deployment Server R
 RabbitMQ Frontend Code Review Event-driven Architecture Automation Pull Request Load Testing Act as if what you do makes a difference. It does. If you can dream it, you can do it. Microservices Cloud Data Science Innovation distinguishes between a leader and a follower.
 Great things never come from comfort zones. Data Pipeline Load Testing Docker Don't be afraid to give up the good to go for the great. Frontend JavaScript Container Orchestration
 Edge Computing Zero Downtime Deployment Work hard in silence, let your success be your noise. Agile Code Review
+Don't be afraid to give up the good to go for the great. Security Containerization Kubernetes NLP

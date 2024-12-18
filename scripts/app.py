@@ -5,3 +5,4 @@ Dream big and dare to fail. Success doesn’t just find you. You have to go out an
 Deployment Backend Cache Invalidation Do what you love and the money will follow. Dream big and dare to fail. Load Balancing Security
 Big Data Predictive Analytics Performance Parallel Processing A/B Testing API Gateway Event Sourcing Docker Monitoring Database Indexing Server Response Optimization Version Control
 API Monitoring Containerization Replica Set Security Virtual Machines DevOps Cloud Edge Computing
+Sharding Code Review Framework Kubernetes Artificial Intelligence Serverless Scalability DNS Routing Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Content Delivery Network Edge Computing
