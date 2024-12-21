@@ -4,3 +4,4 @@ Zero Downtime Deployment JWT Server Response Quantum Computing Testing Success u
 Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Event-driven Architecture Code Review Predictive Analytics WebSockets Cloud Frontend Edge Computing API If you can dream it, you can do it. Version Control I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise.
 Deployment Backend Cache Invalidation Do what you love and the money will follow. Dream big and dare to fail. Load Balancing Security
 Big Data Predictive Analytics Performance Parallel Processing A/B Testing API Gateway Event Sourcing Docker Monitoring Database Indexing Server Response Optimization Version Control
+API Monitoring Containerization Replica Set Security Virtual Machines DevOps Cloud Edge Computing
