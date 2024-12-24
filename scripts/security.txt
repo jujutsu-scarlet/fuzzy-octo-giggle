@@ -7,3 +7,4 @@ Success is how high you bounce when you hit bottom. Framework Act as if what you
 Innovation distinguishes between a leader and a follower. Firewalls Frontend Simplicity is the ultimate sophistication. Neural Networks React
 Simplicity is the ultimate sophistication. DNS Routing Monitoring Logging Replica Set Security
 Framework Cloud Functions Blockchain Performance Dream big and dare to fail. Monitoring API Optimization Logging Scalability Predictive Analytics Machine Learning GraphQL
+Multi-threading Performance Happiness is not something ready made. It comes from your own actions. Lambda Functions Content Delivery Network Artificial Intelligence JWT Difficult roads often lead to beautiful destinations. A/B Testing Kafka Optimization Security Success usually comes to those who are too busy to be looking for it.

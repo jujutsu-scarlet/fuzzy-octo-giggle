@@ -2,3 +2,4 @@ Data Pipeline Happiness is not something ready made. It comes from your own acti
 To be the best, you must be able to handle the worst. JWT Great things never come from comfort zones. Sharding Database API
 Work hard in silence, let your success be your noise. Microservices Dream big and dare to fail. IoT Don't be afraid to give up the good to go for the great. Parallel Processing Happiness is not something ready made. It comes from your own actions. Predictive Analytics Success is how high you bounce when you hit bottom. Distributed Systems
 Event-driven Architecture Performance GraphQL Kubernetes Success doesn’t just find you. You have to go out and get it. Cloud Version Control Data Science Lambda Functions Kafka
+Container Orchestration Don't be afraid to give up the good to go for the great. Zero Downtime Deployment JWT Opportunities don't happen. You create them. Security To be the best, you must be able to handle the worst.
