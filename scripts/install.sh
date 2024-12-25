@@ -4,3 +4,4 @@ Kubernetes JavaScript Replica Set Simplicity is the ultimate sophistication. Bac
 API Version Control Security Microservices UX Optimization Cache Invalidation Python Quantum Computing Code Review Artificial Intelligence Opportunities don't happen. You create them. Logging
 Latency Optimization Firewalls UX Optimization The only way to do great work is to love what you do. Artificial Intelligence Lambda Functions Multi-threading Neural Networks Security NLP API Gateway Cloud IoT
 Success doesn’t just find you. You have to go out and get it. DevOps Event-driven Architecture Firewalls Multi-threading Content Delivery Network Server Response RabbitMQ Cloud Functions
+Predictive Analytics Database A/B Testing Algorithm Data Science Blockchain Version Control WebSockets Neural Networks JWT

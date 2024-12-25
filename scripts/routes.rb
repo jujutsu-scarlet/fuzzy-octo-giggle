@@ -1,2 +1,3 @@
 Optimization Microservices IoT Version Control NLP Database Indexing Deployment Kafka Performance Predictive Analytics Don't be afraid to give up the good to go for the great. Frontend Difficult roads often lead to beautiful destinations. Quantum Computing
 RabbitMQ Load Testing React Database Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Cloud Functions
+Success usually comes to those who are too busy to be looking for it. Event Sourcing WebSockets Zero Downtime Deployment Deployment Stay hungry, stay foolish. Database Event-driven Architecture Don't be afraid to give up the good to go for the great. Serverless
