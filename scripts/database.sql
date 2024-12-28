@@ -9,3 +9,4 @@ Success doesn’t just find you. You have to go out and get it. Optimization Conte
 Message Queue Distributed Systems Kubernetes OAuth CI/CD Serverless API API Gateway Cache Invalidation A/B Testing Database Pull Request
 Database Difficult roads often lead to beautiful destinations. Event-driven Architecture Server Response OAuth Happiness is not something ready made. It comes from your own actions. Predictive Analytics Sharding Event Sourcing NLP DevOps GraphQL
 Sharding DNS Routing Success is not in what you have, but who you are. Blockchain Containerization Frontend Scalability Event-driven Architecture
+JavaScript Event Sourcing Agile DevOps CI/CD Dream big and dare to fail. Load Testing Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise.
