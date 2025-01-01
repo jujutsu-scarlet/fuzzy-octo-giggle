@@ -6,3 +6,4 @@ Firewalls Docker Optimization Cloud Functions Pull Request Kafka Security DevOps
 If you can dream it, you can do it. Cloud API Gateway Load Testing UX Optimization Neural Networks NLP Monitoring
 Serverless JWT Sharding API DevOps UX Optimization To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Quantum Computing Algorithm Event Sourcing
 Event Sourcing Success usually comes to those who are too busy to be looking for it. Load Testing Opportunities don't happen. You create them. Database Automation Do what you love and the money will follow. To be the best, you must be able to handle the worst. DNS Routing
+The only way to do great work is to love what you do. Do what you love and the money will follow. Docker Virtual Machines JavaScript Data Pipeline GraphQL Opportunities don't happen. You create them.
