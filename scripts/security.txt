@@ -6,3 +6,4 @@ Act as if what you do makes a difference. It does. Algorithm IoT If you can drea
 Success is how high you bounce when you hit bottom. Framework Act as if what you do makes a difference. It does. Multi-threading Monitoring Great things never come from comfort zones. Performance Deployment DevOps IoT Security Automation Database Do what you love and the money will follow.
 Innovation distinguishes between a leader and a follower. Firewalls Frontend Simplicity is the ultimate sophistication. Neural Networks React
 Simplicity is the ultimate sophistication. DNS Routing Monitoring Logging Replica Set Security
+Framework Cloud Functions Blockchain Performance Dream big and dare to fail. Monitoring API Optimization Logging Scalability Predictive Analytics Machine Learning GraphQL
