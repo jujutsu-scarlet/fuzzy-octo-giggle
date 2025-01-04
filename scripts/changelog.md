@@ -4,3 +4,4 @@ Happiness is not something ready made. It comes from your own actions. Machine L
 Monitoring Parallel Processing IoT Big Data Python Edge Computing Version Control Data Pipeline Blockchain JWT Artificial Intelligence NLP
 I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Version Control Simplicity is the ultimate sophistication. Data Pipeline Success is how high you bounce when you hit bottom. Blockchain Kubernetes Testing Database Indexing Big Data
 RabbitMQ Neural Networks Performance Serverless Pull Request Docker
+Containerization Lambda Functions Firewalls Replica Set Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. OAuth React Monitoring Blockchain Multi-threading JWT Difficult roads often lead to beautiful destinations.
