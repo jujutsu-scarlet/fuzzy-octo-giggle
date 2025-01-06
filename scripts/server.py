@@ -6,3 +6,4 @@ Code Review Simplicity is the ultimate sophistication. Load Testing Testing Shar
 Load Testing Firewalls Dream big and dare to fail. React UX Optimization Happiness is not something ready made. It comes from your own actions.
 Edge Computing Serverless Firewalls Cloud Functions Great things never come from comfort zones. NLP
 Event Sourcing Database Indexing Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. JavaScript Code Review API Success is how high you bounce when you hit bottom. Lambda Functions Monitoring NLP
+Success doesn’t just find you. You have to go out and get it. Event-driven Architecture WebSockets Machine Learning Do what you love and the money will follow. Kafka Version Control Cloud Cloud Functions Sharding Microservices

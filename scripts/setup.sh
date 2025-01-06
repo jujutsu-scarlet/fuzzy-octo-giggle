@@ -7,3 +7,4 @@ I find that the harder I work, the more luck I seem to have. Monitoring Event-dr
 Sharding GraphQL API Gateway Artificial Intelligence Cloud Functions Replica Set Predictive Analytics Algorithm Monitoring Python Logging Serverless Pull Request
 CI/CD Data Science Artificial Intelligence Container Orchestration Testing Content Delivery Network Work hard in silence, let your success be your noise. Backend WebSockets Security Success doesn’t just find you. You have to go out and get it.
 GraphQL DevOps Testing Work hard in silence, let your success be your noise. API Dream big and dare to fail. Kubernetes Message Queue
+JWT Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Performance RabbitMQ Dream big and dare to fail. Neural Networks Logging IoT Innovation distinguishes between a leader and a follower. Quantum Computing NLP Distributed Systems UX Optimization
