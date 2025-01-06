@@ -5,3 +5,4 @@ Machine Learning Difficult roads often lead to beautiful destinations. Pull Requ
 Code Review Simplicity is the ultimate sophistication. Load Testing Testing Sharding RabbitMQ Distributed Systems Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. React Kubernetes
 Load Testing Firewalls Dream big and dare to fail. React UX Optimization Happiness is not something ready made. It comes from your own actions.
 Edge Computing Serverless Firewalls Cloud Functions Great things never come from comfort zones. NLP
+Event Sourcing Database Indexing Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. JavaScript Code Review API Success is how high you bounce when you hit bottom. Lambda Functions Monitoring NLP

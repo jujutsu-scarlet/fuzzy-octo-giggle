@@ -6,3 +6,4 @@ Artificial Intelligence Success is not in what you have, but who you are. Backen
 I find that the harder I work, the more luck I seem to have. Monitoring Event-driven Architecture Distributed Systems Content Delivery Network
 Sharding GraphQL API Gateway Artificial Intelligence Cloud Functions Replica Set Predictive Analytics Algorithm Monitoring Python Logging Serverless Pull Request
 CI/CD Data Science Artificial Intelligence Container Orchestration Testing Content Delivery Network Work hard in silence, let your success be your noise. Backend WebSockets Security Success doesn’t just find you. You have to go out and get it.
+GraphQL DevOps Testing Work hard in silence, let your success be your noise. API Dream big and dare to fail. Kubernetes Message Queue
