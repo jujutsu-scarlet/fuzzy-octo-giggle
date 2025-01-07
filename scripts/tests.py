@@ -6,3 +6,4 @@ Serverless Event-driven Architecture NLP Database Work hard in silence, let your
 DNS Routing A/B Testing Testing Data Pipeline Performance
 Data Science Server Response Event Sourcing Happiness is not something ready made. It comes from your own actions. Python Automation Load Testing A/B Testing Distributed Systems Latency Optimization Code Review
 Machine Learning Performance Success is not in what you have, but who you are. Event Sourcing Artificial Intelligence Neural Networks Container Orchestration Docker Message Queue Data Science
+Database Indexing Testing Multi-threading API Gateway Logging Version Control Server Response Monitoring I find that the harder I work, the more luck I seem to have. NLP Stay hungry, stay foolish.
