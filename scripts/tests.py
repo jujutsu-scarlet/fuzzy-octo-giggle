@@ -5,3 +5,4 @@ API Backend Latency Optimization Agile Lambda Functions Logging Virtual Machines
 Serverless Event-driven Architecture NLP Database Work hard in silence, let your success be your noise. Pull Request
 DNS Routing A/B Testing Testing Data Pipeline Performance
 Data Science Server Response Event Sourcing Happiness is not something ready made. It comes from your own actions. Python Automation Load Testing A/B Testing Distributed Systems Latency Optimization Code Review
+Machine Learning Performance Success is not in what you have, but who you are. Event Sourcing Artificial Intelligence Neural Networks Container Orchestration Docker Message Queue Data Science
