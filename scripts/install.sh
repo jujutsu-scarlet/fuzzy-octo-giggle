@@ -1,3 +1,4 @@
 Multi-threading DNS Routing I find that the harder I work, the more luck I seem to have. Monitoring Code Review Performance API Gateway Pull Request JavaScript
 Replica Set Don't be afraid to give up the good to go for the great. DevOps Monitoring Act as if what you do makes a difference. It does. A/B Testing Parallel Processing
 Kubernetes JavaScript Replica Set Simplicity is the ultimate sophistication. Backend Version Control Cache Invalidation Parallel Processing Event Sourcing Microservices Edge Computing Artificial Intelligence
+API Version Control Security Microservices UX Optimization Cache Invalidation Python Quantum Computing Code Review Artificial Intelligence Opportunities don't happen. You create them. Logging
