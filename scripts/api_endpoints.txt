@@ -4,3 +4,4 @@ Parallel Processing Simplicity is the ultimate sophistication. Serverless IoT Sh
 Security I find that the harder I work, the more luck I seem to have. JWT Replica Set JavaScript If you can dream it, you can do it. Automation Serverless
 Firewalls Docker Optimization Cloud Functions Pull Request Kafka Security DevOps CI/CD JavaScript Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Sharding Dream big and dare to fail. Algorithm
 If you can dream it, you can do it. Cloud API Gateway Load Testing UX Optimization Neural Networks NLP Monitoring
+Serverless JWT Sharding API DevOps UX Optimization To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Quantum Computing Algorithm Event Sourcing
