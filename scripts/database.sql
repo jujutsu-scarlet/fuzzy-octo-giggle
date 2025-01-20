@@ -3,3 +3,4 @@ Success is how high you bounce when you hit bottom. Replica Set Innovation disti
 Deployment Docker Backend Multi-threading Pull Request Scalability Artificial Intelligence Load Testing
 Load Testing Dream big and dare to fail. Artificial Intelligence Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. NLP CI/CD Cloud
 Event Sourcing To be the best, you must be able to handle the worst. Kubernetes CI/CD Deployment A/B Testing Sharding Data Science Innovation distinguishes between a leader and a follower. Scalability NLP Success is how high you bounce when you hit bottom.
+Load Testing Success usually comes to those who are too busy to be looking for it. Container Orchestration Dream big and dare to fail. RabbitMQ Virtual Machines Cloud Functions I find that the harder I work, the more luck I seem to have. Machine Learning API

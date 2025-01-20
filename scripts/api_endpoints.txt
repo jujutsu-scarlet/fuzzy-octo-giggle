@@ -2,3 +2,4 @@ Parallel Processing Cloud Cloud Functions Firewalls Content Delivery Network Kaf
 Success is how high you bounce when you hit bottom. Database Indexing Machine Learning Distributed Systems Artificial Intelligence Container Orchestration Serverless Success doesn’t just find you. You have to go out and get it.
 Parallel Processing Simplicity is the ultimate sophistication. Serverless IoT Sharding NLP Do what you love and the money will follow. Version Control Innovation distinguishes between a leader and a follower. Distributed Systems Cloud Functions
 Security I find that the harder I work, the more luck I seem to have. JWT Replica Set JavaScript If you can dream it, you can do it. Automation Serverless
+Firewalls Docker Optimization Cloud Functions Pull Request Kafka Security DevOps CI/CD JavaScript Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Sharding Dream big and dare to fail. Algorithm
