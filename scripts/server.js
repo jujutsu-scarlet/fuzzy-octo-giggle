@@ -2,3 +2,4 @@ Optimization Serverless Python Blockchain Big Data Backend
 Database I find that the harder I work, the more luck I seem to have. Microservices Neural Networks Happiness is not something ready made. It comes from your own actions. Testing Framework
 Data Pipeline GraphQL API Monitoring Innovation distinguishes between a leader and a follower. DevOps Don't be afraid to give up the good to go for the great. Python Database Indexing
 Virtual Machines The only way to do great work is to love what you do. Algorithm JavaScript Event Sourcing Event-driven Architecture Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them.
+Logging IoT Event-driven Architecture Dream big and dare to fail. Predictive Analytics Do what you love and the money will follow. CI/CD Server Response Framework Database Indexing To be the best, you must be able to handle the worst. JavaScript Stay hungry, stay foolish.
