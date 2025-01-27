@@ -2,3 +2,4 @@ Logging A/B Testing Lambda Functions Simplicity is the ultimate sophistication. 
 Success is how high you bounce when you hit bottom. Replica Set Innovation distinguishes between a leader and a follower. Monitoring JavaScript Pull Request DNS Routing Message Queue Testing If you can dream it, you can do it. React Docker Predictive Analytics
 Deployment Docker Backend Multi-threading Pull Request Scalability Artificial Intelligence Load Testing
 Load Testing Dream big and dare to fail. Artificial Intelligence Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. NLP CI/CD Cloud
+Event Sourcing To be the best, you must be able to handle the worst. Kubernetes CI/CD Deployment A/B Testing Sharding Data Science Innovation distinguishes between a leader and a follower. Scalability NLP Success is how high you bounce when you hit bottom.
