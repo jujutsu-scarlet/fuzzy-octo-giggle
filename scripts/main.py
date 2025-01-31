@@ -1,1 +1,2 @@
 Event-driven Architecture Replica Set Performance The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise.
+Data Pipeline Artificial Intelligence Serverless Framework API Gateway Container Orchestration DNS Routing Difficult roads often lead to beautiful destinations. Frontend Success is how high you bounce when you hit bottom.
