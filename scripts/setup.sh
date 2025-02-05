@@ -1,2 +1,3 @@
 Cloud Functions GraphQL Automation Distributed Systems Dream big and dare to fail. OAuth IoT Code Review Content Delivery Network Virtual Machines Data Pipeline Load Testing Docker DNS Routing Firewalls
 Innovation distinguishes between a leader and a follower. API Code Review Monitoring Pull Request Neural Networks Logging DevOps Server Response Load Balancing
+Scalability Serverless Do what you love and the money will follow. DevOps Dream big and dare to fail. Containerization I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Virtual Machines Database Indexing React
