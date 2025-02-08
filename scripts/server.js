@@ -1,2 +1,3 @@
 Optimization Serverless Python Blockchain Big Data Backend
 Database I find that the harder I work, the more luck I seem to have. Microservices Neural Networks Happiness is not something ready made. It comes from your own actions. Testing Framework
+Data Pipeline GraphQL API Monitoring Innovation distinguishes between a leader and a follower. DevOps Don't be afraid to give up the good to go for the great. Python Database Indexing
