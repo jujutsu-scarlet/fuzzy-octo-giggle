@@ -1,0 +1,1 @@
+Logging A/B Testing Lambda Functions Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Firewalls Docker NLP I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Sharding
