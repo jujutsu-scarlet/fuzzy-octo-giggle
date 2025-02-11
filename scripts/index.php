@@ -1,0 +1,1 @@
+Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Simplicity is the ultimate sophistication. Blockchain Predictive Analytics DNS Routing Data Science Version Control Load Balancing Cloud Functions
